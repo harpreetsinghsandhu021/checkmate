@@ -71,7 +71,7 @@ const handler = async (data: InputType): Promise<ReturnType> => {
     };
   }
 
-  revalidatePath(`/organization/${orgId}`);
+  revalidatePath(settingsUrl);
   return { data: url };
 };
 
