@@ -101,8 +101,6 @@ const CardModalDescription = ({ data }: ICardModalDescriptionProps) => {
               className="mt-2 outline-none "
               value={description}
               onChange={(e) => {
-                console.log(e);
-
                 setDescription(e);
               }}
             />

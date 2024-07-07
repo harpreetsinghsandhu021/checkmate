@@ -10,7 +10,8 @@ import { cn } from "@/lib/utils";
 import { Organization } from "@/types";
 import { Activity, CreditCard, Layout, Settings } from "lucide-react";
 import Image from "next/image";
-import { usePathname, useRouter } from "next/navigation";
+import { usePathname } from "next/navigation";
+import { useRouter } from "next13-progressbar";
 import React from "react";
 
 interface INavItemProps {
