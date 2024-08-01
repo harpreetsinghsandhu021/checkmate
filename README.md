@@ -13,9 +13,6 @@ Checkmate is a robust task management platform inspired by Trello. Designed for 
 
 Here are some screenshots of Checkmate in action:
 
-![Screenshot 1](./apps/neuron-ai/public/screenshots/s1.png)
-_dashboard_
-
-
-
-
+![Screenshot 1](./public/s1.png)
+![Screenshot 1](./public/s2.png)
+![Screenshot 1](./public/s3.png)
